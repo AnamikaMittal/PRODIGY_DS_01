@@ -1,0 +1,7 @@
+---
+
+#### `requirements.txt` (optional)
+```txt
+pandas
+matplotlib
+seaborn
